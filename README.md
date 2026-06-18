@@ -15,7 +15,7 @@ This is my personal portfolio website created using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 🔗 Live Website
-(After GitHub Pages setup add link here)
+https://nishitha135.github.io/ApexPlanet-Task1/
 
 ## 📌 Author
 Nishitha Allamneni
