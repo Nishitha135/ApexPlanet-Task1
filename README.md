@@ -16,7 +16,6 @@ This is my personal portfolio website created using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Website
 https://nishitha135.github.io/ApexPlanet-Task1/
-![Photo](https://raw.githubusercontent.com/Nishitha135/ApexPlanet-Task1/main/Photo.jpeg)
 
 ## 📌 Author
 Nishitha Allamneni
