@@ -242,3 +242,7 @@ footer{
 header h1{
     letter-spacing: 2px;
 }
+.btn:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
