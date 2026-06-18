@@ -246,3 +246,7 @@ header h1{
     transform: scale(1.1);
     transition: 0.3s;
 }
+nav a{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
